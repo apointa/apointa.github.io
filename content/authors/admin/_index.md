@@ -2,11 +2,11 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Andreas Auer
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Andreas
+last_name: Auer
 
 # Status emoji
 status:
@@ -16,29 +16,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow
+role: Ellis PhD student in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name:  Ellis Unit Linz - Institute for Machine Learning, Johannes Kepler University, Linz
+    url: https://ml-jku.github.io/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a computer physicist in soft matter and fluids at interfaces, currently at the LIPhy in Grenoble (France).
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Deep Learning
+  - Uncertainty Estimation
+  - Time Series
+  - Neurosymbolic AI
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
-
+    - course: PhD in Machine Learning
+      institution: Johannes Kepler University, Linz
+      year: ongoing
+    - course: MSc in Computer Science
+      institution: Technical University Vienna, Vienna
+      year: 2022
+    - course: BSc in Computer Science
+      institution: Technical University Vienna, Vienna
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,25 +56,31 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GravelleSimon
+    link: https://twitter.com/AndAuer
     label: Follow me on Twitter
+    display:
+      header: true
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/andreas-auer-cs
+    label: Connect with me on Linkedin
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: https://scholar.google.com/citations?user=Rg_Ooc8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/apointa
   - icon: gitlab
     icon_pack: fab
-    link: https://gitlab.com/sgravelle
+    link: https://gitlab.com/apointa
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/cv/cv.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/cv/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -79,16 +91,10 @@ highlight_name: true
 
 **About me**
 
-I am a physicist in soft matter and fluids at interfaces at the [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble (France). I just received the [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant *NanoSep* to study the demixing of fluid mixtures by hybrid nanoporous materials.
+Hi, I am Andreas. I am a **PhD student** in the field of **Machine Learning** at the [Institute for Machine Learning](https://ml-jku.github.io/) at Johannes Kepler University, Linz, Austria, in the Team of Sepp Hochreiter. I am also part of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
+Previously, I did my bachelor's and master's studies in Computer Science at the Technical University of Vienna.
 
-**Open source and open data**
+My research is currently in the field of **Uncertainty Estimation** for Machine Learning Models, especially for **Deep Learning** Models and in the context of **Time Series**.
+Motivated by my previous studies (I did a fair amount of Symbolic AI in my bachelor's and master's) and my side study (Economics), I am also generally interested in Neuro-Symbolic approaches and their applications in economics/finance.
 
-* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html): Python toolkit for analyzing molecular dynamics simulations
-* [Github](https://github.com/simongravelle/): scripts for creating and analyzing molecular
-simulations
-* [NMRforMD](https://nmrformd.readthedocs.io/en/latest/): tool to calculate NMR relaxation rate from molecular simulations
-
-**Outreach**
-
-* [LAMMPS tutorials](https://lammpstutorials.github.io): for beginners and advanced LAMMPS user
-* [videos](https://www.youtube.com/@SimonGravelle): research-related content 
+I have also some experience as professional Software Developer and I believe that readable code is as important as readable papers.

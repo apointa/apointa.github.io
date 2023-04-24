@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 widget: portfolio
 headless: true
 weight: 30
@@ -9,12 +9,6 @@ content:
   page_type: news
   filter_default: 0
   filter_button:
-    - name: All
-      tag: '*'
-    - name: MAICoS
-      tag: MAICoS
-    - name: LAMMPS
-      tag: LAMMPS
     - name: Personal
       tag: Personal
     #- name: Other

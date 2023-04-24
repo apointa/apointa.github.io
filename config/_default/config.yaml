@@ -4,8 +4,8 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Simon Gravelle # Website name
-baseURL: 'https://simongravelle.github.io/' # Website URL
+title: Andreas Auer # Website name
+baseURL: 'https://auera.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -83,9 +83,9 @@ sitemap:
 ############################
 
 cascade:
-  - _target:
-      path: /blog/**
-    share: false
+#  - _target:
+#      path: /blog/**
+#    share: false
   - _target:
       path: /publication/**
     share: false

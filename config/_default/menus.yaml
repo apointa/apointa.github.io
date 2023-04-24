@@ -9,12 +9,21 @@ main:
   - name: Home
     url: '/index.html'
     weight: 10
-  - name: News
-    url: '/news.html'
-    weight: 30
+#  - name: News
+#    url: '/news.html'
+#    weight: 30
   - name: Publications
-    url: '/publication.html'
+    url: '/#publications'
     weight: 40
+  - name: Education
+    url: '/#experience'
+    weight: 60
+  - name: Research & Industry Experience
+    url: '/#experience_2'
+    weight: 50
+  - name: Contact
+    url: '/#contact'
+    weight: 80                   
 #  - name: Blog
 #    url: '/blog/'
 #    weight: 60
