@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Andreas Auer # Website name
-baseURL: 'https://auera.github.io/' # Website URL
+baseURL: 'https://apointa.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
