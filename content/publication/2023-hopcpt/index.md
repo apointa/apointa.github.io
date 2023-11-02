@@ -15,7 +15,7 @@ links:
   - icon_pack: fas
     icon: blog # dataverse
     name: Blog
-    url: 'https://apointa.github.io/'
+    url: 'https://ml-jku.github.io/HopCPT/'
   - icon_pack: fab
     icon: github
     name: Code
