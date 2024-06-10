@@ -92,9 +92,9 @@ highlight_name: true
 **About me**
 
 Hi, I am Andreas. I am a **PhD student** in the field of **Machine Learning** at the [Institute for Machine Learning](https://ml-jku.github.io/) at Johannes Kepler University, Linz, Austria, in the Team of Sepp Hochreiter. I am also part of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
-Previously, I did my bachelor's and master's studies in Computer Science at the Technical University of Vienna.
+Previously, I completed my bachelor's and master's degrees in Computer Science at the Technical University of Vienna.
 
-My research is currently in the field of **Uncertainty Estimation** for Machine Learning Models, especially for **Deep Learning** Models and in the context of **Time Series**.
-Motivated by my previous studies (I did a fair amount of Symbolic AI in my bachelor's and master's) and my side study (Economics), I am also generally interested in Neuro-Symbolic approaches and in applications in economics/finance.
+In my research is am most interested in **Deep Learning** in the context of **Time Series** or more broadly said --- sequential data.
+Besides my PhDs focus and motivated by my previous studies (I did a fair amount of Symbolic AI in my bachelor's and master's) and side study (Economics), I am also generally interested in Neuro-Symbolic approaches and in applications in economics/finance.
 
 I have also some experience as professional Software Developer and I believe that readable code is as important as readable papers.
