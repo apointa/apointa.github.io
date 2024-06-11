@@ -38,7 +38,7 @@ experience:
     company_logo: onlim
     location: Vienna, Austria
     date_start: '2020-08-01'
-    date_end: ''
+    date_end: '2023-08-31'
     description: I worked part-time as a Backend Developer during my master's studies, focusing on enhancing the dialog component of chatbots with semantic functionalities. Nowadays, I provide machine learning consulting from time to time.
   - title: Research Intern
     company: University of Oxford
