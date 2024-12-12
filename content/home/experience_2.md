@@ -31,7 +31,15 @@ experience:
     location: Linz, Austria
     date_start: '2022-05-01'
     date_end: ''
-    description: Pre Doc research associate at the Institute for Machine Learning
+    description: Pre Doc research associate at the Institute for Machine Learning.
+  - title: Applied Scientist Intern
+    company: Amazon Web Services (AWS)
+    company_url: ''
+    company_logo: aws
+    location: Berlin, Germany
+    date_start: '2024-07-01'
+    date_end: '2024-11-30'
+    description: Research on Foundational Time Series Models.
   - title: Knowledge and Software Engineer / ML Consultant
     company: Onlim GmbH
     company_url: ''
@@ -39,7 +47,7 @@ experience:
     location: Vienna, Austria
     date_start: '2020-08-01'
     date_end: '2023-08-31'
-    description: I worked part-time as a Backend Developer during my master's studies, focusing on enhancing the dialog component of chatbots with semantic functionalities. Nowadays, I provide machine learning consulting from time to time.
+    description: First I worked part-time as a Backend Developer during my master's studies, focusing on enhancing the dialog component of chatbots with semantic functionalities. Afterwards, I provided machine learning consulting from time to time.
   - title: Research Intern
     company: University of Oxford
     company_url: ''
