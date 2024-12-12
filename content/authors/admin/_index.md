@@ -95,6 +95,7 @@ Hi, I am Andreas. I am a **PhD student** in the field of **Machine Learning** at
 Previously, I completed my bachelor's and master's degrees in Computer Science at the Technical University of Vienna.
 
 In my research I am most interested in **Deep Learning** in the context of **Time Series** or more broadly said --- sequential data.
+Currently I am specifically interested in **Foundational Time Series Models**.
 Besides my PhDs focus and motivated by my previous studies (I did a fair amount of Symbolic AI in my bachelor's and master's) and side study (Economics), I am also generally interested in Neuro-Symbolic approaches and in applications in economics/finance.
 
 I have also some experience as professional Software Developer and I believe that readable code is as important as readable papers.
