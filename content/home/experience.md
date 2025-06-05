@@ -55,7 +55,7 @@ experience:
     location: Vienna, Austria
     date_start: '2017-10-01'
     date_end: ''
-    description: Side passion - Almost finished but you know .. the day has only 24 hours 
+    description: Side passion
 design:
   columns: '2'
 ---
