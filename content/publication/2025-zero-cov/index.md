@@ -1,6 +1,6 @@
 ---
 title: "Zero-Shot Time Series Forecasting with Covariates via In-Context Learning"
-date: 2024-12-31
+date: 2024-06-04
 publishDate:  2025-06-04
 authors: ["**Andreas Auer**, Raghul Parthipan, Pedro Mercado, Abdul Fatir Ansari, Lorenzo Stella, Bernie Wang, Michael Bohlke-Schneider, Syama Sundar Rangapuram"]
 publication_types: ["2"]

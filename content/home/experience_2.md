@@ -32,13 +32,21 @@ experience:
     date_start: '2022-05-01'
     date_end: ''
     description: Pre Doc research associate at the Institute for Machine Learning.
+  - title: Applied Scientist Intern
+    company: Amazon Web Services (AWS)
+    company_url: ''
+    company_logo: aws
+    location: Berlin, Germany
+    date_start: '2024-09-01'
+    date_end: '2024-12-30'
+    description: Research on Foundational Time Series Models.
   - title: PhD Researcher
     company: NXAI GmbH
     company_url: ''
     company_logo: nxai
     location: Linz, Austria
     date_start: '2025-04-01'
-    date_end: '2025-09-30'
+    date_end: '2025-08-30'
     description: Research on Foundational Time Series Models.
   - title: Applied Scientist Intern
     company: Amazon Web Services (AWS)
