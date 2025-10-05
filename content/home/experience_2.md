@@ -37,8 +37,8 @@ experience:
     company_url: ''
     company_logo: aws
     location: Berlin, Germany
-    date_start: '2024-09-01'
-    date_end: '2024-12-30'
+    date_start: '2025-09-01'
+    date_end: '2025-12-30'
     description: Research on Foundational Time Series Models.
   - title: PhD Researcher
     company: NXAI GmbH
