@@ -91,11 +91,12 @@ highlight_name: true
 
 **About me**
 
-Hi, I am Andreas. I am a **PhD student** in the field of **Machine Learning** at the [Institute for Machine Learning](https://ml-jku.github.io/) at Johannes Kepler University, Linz, Austria, in the Team of Sepp Hochreiter. I am also part of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
-Previously, I completed my bachelor's and master's degrees in Computer Science at the Technical University of Vienna.
+Hi, I am Andreas. I am a **PhD student** in the field of **Machine Learning** at the [Institute for Machine Learning](https://ml-jku.github.io/) at Johannes Kepler University, Linz, Austria, advised by Sepp Hochreiter. I am also part of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
 
-In my research I am most interested in **Deep Learning** in the context of **Time Series** or more broadly said --- sequential data.
-Currently I am specifically interested in **Foundational Time Series Models**.
+In my research I am most interested in **Deep Learning** in the context of **Time Series** or, more broadly, sequential data.
+Currently I am specifically interested in **Foundational Time Series Models**:
 
+I led the development of **[TiRex](https://arxiv.org/abs/2505.23719)**, a state-of-the-art foundational forecasting model built with xLSTM, and **[COSMIC](https://arxiv.org/abs/2506.03128)**, the first foundational forecasting model that beneficially utilized covariates in a zero-shot setting.
+Further, I am the co-author of **[Chronos-2](https://arxiv.org/abs/2510.15821)** and **[xLSTM](https://arxiv.org/abs/2405.04517)**.
 
-I have also experience as professional Software Developer.
+Prior to my PhD, I completed my BSc and MSc degrees in Computer Science at the Technical University of Vienna and gathered experience as professional software developer.
