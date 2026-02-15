@@ -89,8 +89,6 @@ email: ''
 highlight_name: true
 ---
 
-**About me**
-
 Hi, I am Andreas. I’m an **Applied Scientist at AWS (Amazon)**, dedicated to advancing **foundation models for time series**, with a specific focus on **forecasting**. I work in the team that leads the research and development of [Chronos](https://github.com/amazon-science/chronos-forecasting) and [Autogluon](https://github.com/autogluon/autogluon).
 
 Prior to that, I completed my **PhD in Machine Learning** at the [Institute for Machine Learning](https://ml-jku.github.io/) at JKU, where I was advised by [Sepp Hochreiter](https://scholar.google.com/citations?user=tvUH3WMAAAAJ) and was part of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc). My PhD research centered on **Deep Learning** in the context of **Time Series** or, more broadly, sequential data — with a specific focus on Foundation Models. Before that, I obtained my BSc and MSc degrees in Computer Science at the Technical University of Vienna and gathered experience as a professional software developer.
