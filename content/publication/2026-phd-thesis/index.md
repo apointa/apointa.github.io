@@ -1,0 +1,15 @@
+---
+title: "Accessible Time Series Forecasting with Deep Learning"
+date: 2025-12-01
+publishDate:  2025-12-01
+authors: ["**Andreas Auer**"]
+publication_types: ["2"]
+abstract: "Forecasting future values based on historical values is a critical task in many fields, from supply chain logistics and industrial production to energy management. Despite significant advances in deep learning based forecasting, practical deployment remains constrained by high operational overhead, including the need for initial training and periodic retraining. Additionally, many use cases lack sufficient task-specific data to train robust models. Furthermore, a forecast’s utility hinges on its reliability, which requires understanding of its inherent uncertainty — a feature often lacking in standard models. This thesis addresses this accessibility gap by developing methods aimed at enhancing the ease-of-use and reliability of forecasting without sacrificing performance. The contributions of this work are organized around two central pillars. The first pillar focuses on enhancing ease-of-use through zero-shot forecasting. By leveraging the paradigm of pre-trained models, we develop methods that can generate accurate forecasts across unknown datasets without requiring any task-specific training. This capability is achieved through in-context learning, where a model dynamically infers the patterns of a provided time series at inference time. We advance this paradigm by introducing COSMIC, a model that effectively incorporates external variables (covariates) in such a zero-shot setting — a crucial capability for real-world forecasting. This capability is instilled during pre-training via a novel augmentation strategy, and allows the model to dynamically infer covariate-target relationships. Further, we present TiRex, a pre-trained model based on xLSTM, which combines state-tracking with strong in-context learning, advancing the performance frontier of zero-shot forecasting. This is facilitated by a novel training paradigm that introduces Contiguous Patch Masking (CPM), alongside a suite of data augmentations, to force the model to rely on its internal state. The second pillar addresses reliability through uncertainty quantification. Recognizing that point forecasts are insufficient for decision-making, we adapt Conformal Prediction, a framework that provides guarantees with minimal assumptions, to the forecasting setting. Our proposed method, HopCPT, conceptualizes a time series as a sequence of recurring regimes and uses a Modern Hopfield Network to learn adaptive, context-aware uncertainty intervals. We extend this with HopCPT-G, which enables the transfer of uncertainty information across multiple related time series to improve predictions for rare events and data-scarce scenarios. In summary, this thesis advances the frontiers of zero-shot forecasting and uncertainty quantification under the unifying goal of accessible forecasting for a broad audience."
+featured: true
+publication: "Phd Thesis, JKU"
+links:
+  - icon_pack: fas
+    icon: download
+    name: Download
+    url: 'https://epub.jku.at/obvulihs/content/titleinfo/13227142 '
+---

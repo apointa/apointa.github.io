@@ -16,22 +16,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ellis PhD student in Machine Learning
+role: Applied Scientist at AWS (Amazon)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:  Ellis Unit Linz - Institute for Machine Learning, Johannes Kepler University, Linz
-    url: https://ml-jku.github.io/
+  # - name: AWS (Amazon)
+  #  url: https://ml-jku.github.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces, currently at the LIPhy in Grenoble (France).
+bio: 
 
 # Interests to show in About widget
 interests:
+  - Foundation Models
+  - Time Series
   - Deep Learning
   - Uncertainty Estimation
-  - Time Series
-  - Neurosymbolic AI
 
 # Education to show in About widget
 education:
@@ -54,12 +54,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/AndAuer
-    label: Follow me on Twitter
-    display:
-      header: true
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/AndAuer
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/andreas-auer-cs
@@ -72,9 +72,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/apointa
-  - icon: gitlab
-    icon_pack: fab
-    link: https://gitlab.com/apointa
+  #- icon: gitlab
+  #  icon_pack: fab
+  #  link: https://gitlab.com/apointa
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -91,12 +91,9 @@ highlight_name: true
 
 **About me**
 
-Hi, I am Andreas. I am a **PhD student** in the field of **Machine Learning** at the [Institute for Machine Learning](https://ml-jku.github.io/) at Johannes Kepler University, Linz, Austria, advised by Sepp Hochreiter. I am also part of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc).
+Hi, I am Andreas. I’m an **Applied Scientist at AWS (Amazon)**, dedicated to advancing **foundation models for time series**, with a specific focus on **forecasting**. I work in the team that leads the research and development of [Chronos](https://github.com/amazon-science/chronos-forecasting) and [Autogluon](https://github.com/autogluon/autogluon).
 
-In my research I am most interested in **Deep Learning** in the context of **Time Series** or, more broadly, sequential data.
-Currently I am specifically interested in **Foundational Time Series Models**:
+Prior to that, I completed my **PhD in Machine Learning** at the [Institute for Machine Learning](https://ml-jku.github.io/) at JKU, where I was advised by [Sepp Hochreiter](https://scholar.google.com/citations?user=tvUH3WMAAAAJ) and was part of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc). My PhD research centered on **Deep Learning** in the context of **Time Series** or, more broadly, sequential data — with a specific focus on Foundation Models. Before that, I obtained my BSc and MSc degrees in Computer Science at the Technical University of Vienna and gathered experience as a professional software developer.
 
-I led the development of **[TiRex](https://arxiv.org/abs/2505.23719)**, a state-of-the-art foundational forecasting model built with xLSTM, and **[COSMIC](https://arxiv.org/abs/2506.03128)**, the first foundational forecasting model that beneficially utilized covariates in a zero-shot setting.
-Further, I am the co-author of **[Chronos-2](https://arxiv.org/abs/2510.15821)** and **[xLSTM](https://arxiv.org/abs/2405.04517)**.
-
-Prior to my PhD, I completed my BSc and MSc degrees in Computer Science at the Technical University of Vienna and gathered experience as professional software developer.
+I led the development of **[TiRex](https://arxiv.org/abs/2505.23719)**, a state-of-the-art foundation forecasting model built with xLSTM, and **[COSMIC](https://arxiv.org/abs/2506.03128)**, the first foundation forecasting model that beneficially utilized covariates in a zero-shot setting.
+Further, I am a co-author of **[Chronos-2](https://arxiv.org/abs/2510.15821)** and **[xLSTM](https://arxiv.org/abs/2405.04517)**.
